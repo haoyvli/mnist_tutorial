@@ -37,5 +37,6 @@ Q3: Training accuracy: 97.93%
 Q4: Training accuracy: 92.15%
     Testing accuracy: 89.10%
     
-Q5: 
+Q5: The training accuracy is:  93.14212128520012 %
+    The testing accuracy is: 94.24078525641026 %
 
