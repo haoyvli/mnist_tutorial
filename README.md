@@ -25,6 +25,8 @@ Please read [HEAR](EE369.md).
 
 # Results
 
+The project is based on Pytorch.
+
 Q1: Training accuracy: 97.47%
     Testing accuracy: 88.10%
     
