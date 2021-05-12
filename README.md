@@ -25,7 +25,7 @@ Please read [HEAR](EE369.md).
 
 # Results
 
-The project is based on Pytorch.
+The project is based on Pytorch, sklearn 0.22.2.
 
 Q1: Training accuracy: 97.47%
     Testing accuracy: 88.10%
